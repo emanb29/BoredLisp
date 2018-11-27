@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AQI Render/.idea/modules/AQI-Render.iml" filepath="$PROJECT_DIR$/../AQI Render/.idea/modules/AQI-Render.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AQI Render/.idea/modules/AQI-Render-build.iml" filepath="$PROJECT_DIR$/../AQI Render/.idea/modules/AQI-Render-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BoredLisp.iml" filepath="$PROJECT_DIR$/.idea/modules/BoredLisp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BoredLisp-build.iml" filepath="$PROJECT_DIR$/.idea/modules/BoredLisp-build.iml" />
+    </modules>
+  </component>
+</project>
